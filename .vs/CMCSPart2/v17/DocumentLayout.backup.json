@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Desktop\\st10437348_prog6212_Part2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\services\\inmemorystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\services\\inmemorystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\controllers\\coordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\controllers\\coordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\services\\persistenceoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\services\\persistenceoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\services\\securityoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\services\\securityoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\models\\supportingdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\models\\supportingdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,64 +35,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\appsettings.json",
-              "RelativeDocumentMoniker": "CMCSPart2\\appsettings.json",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\appsettings.json",
-              "RelativeToolTip": "CMCSPart2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-22T07:02:23.003Z",
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "CMCSPart2\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "CMCSPart2\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:10:04.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Controllers\\LecturerController.cs",
+              "RelativeDocumentMoniker": "CMCSPart2\\Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Controllers\\LecturerController.cs",
+              "RelativeToolTip": "CMCSPart2\\Controllers\\LecturerController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwJUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:09:23.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SecurityOptions.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Services\\SecurityOptions.cs",
-              "RelativeDocumentMoniker": "CMCSPart2\\Services\\SecurityOptions.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Services\\SecurityOptions.cs",
-              "RelativeToolTip": "CMCSPart2\\Services\\SecurityOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CMCSPart2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CMCSPart2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:58:36.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersistenceOptions.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Services\\PersistenceOptions.cs",
-              "RelativeDocumentMoniker": "CMCSPart2\\Services\\PersistenceOptions.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Services\\PersistenceOptions.cs",
-              "RelativeToolTip": "CMCSPart2\\Services\\PersistenceOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:58:19.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InMemoryStore.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Services\\InMemoryStore.cs",
-              "RelativeDocumentMoniker": "CMCSPart2\\Services\\InMemoryStore.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Services\\InMemoryStore.cs",
-              "RelativeToolTip": "CMCSPart2\\Services\\InMemoryStore.cs",
-              "ViewState": "AgIAAIMBAAAAAAAAAAAQwK8BAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:53:53.706Z",
+              "WhenOpened": "2025-10-22T07:09:20.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SupportingDocument.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Models\\SupportingDocument.cs",
-              "RelativeDocumentMoniker": "CMCSPart2\\Models\\SupportingDocument.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Models\\SupportingDocument.cs",
-              "RelativeToolTip": "CMCSPart2\\Models\\SupportingDocument.cs",
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "CMCSPart2\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "CMCSPart2\\Controllers\\FilesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:49:12.672Z"
+              "WhenOpened": "2025-10-22T07:09:15.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoordinatorController.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Controllers\\CoordinatorController.cs",
+              "RelativeDocumentMoniker": "CMCSPart2\\Controllers\\CoordinatorController.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Controllers\\CoordinatorController.cs",
+              "RelativeToolTip": "CMCSPart2\\Controllers\\CoordinatorController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:09:06.576Z",
+              "EditorCaption": ""
             }
           ]
         }

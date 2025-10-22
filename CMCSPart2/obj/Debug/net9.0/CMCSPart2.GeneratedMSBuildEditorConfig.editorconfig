@@ -20,12 +20,52 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Desktop/st10437348_prog6212_Part2/CMCSPart2/Views/Coordinator/Claims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRpbmF0b3JcQ2xhaW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Part2/CMCSPart2/Views/Coordinator/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRpbmF0b3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Part2/CMCSPart2/Views/Coordinator/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRpbmF0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Desktop/st10437348_prog6212_Part2/CMCSPart2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Desktop/st10437348_prog6212_Part2/CMCSPart2/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Part2/CMCSPart2/Views/Lecturers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Part2/CMCSPart2/Views/Lecturers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Part2/CMCSPart2/Views/Lecturers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Part2/CMCSPart2/Views/Lecturers/UploadDocument.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXFVwbG9hZERvY3VtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Part2/CMCSPart2/Views/Manager/Claims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxDbGFpbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Part2/CMCSPart2/Views/Manager/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Part2/CMCSPart2/Views/Manager/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Desktop/st10437348_prog6212_Part2/CMCSPart2/Views/Shared/Error.cshtml]
