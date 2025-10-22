@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desktop\\Assignments\\CMCSPart2\\CMCSPart2\\CMCSPart2.csproj": {}
+    "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\CMCSPart2.csproj": {}
   },
   "projects": {
-    "C:\\Desktop\\Assignments\\CMCSPart2\\CMCSPart2\\CMCSPart2.csproj": {
+    "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\CMCSPart2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desktop\\Assignments\\CMCSPart2\\CMCSPart2\\CMCSPart2.csproj",
+        "projectUniqueName": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\CMCSPart2.csproj",
         "projectName": "CMCSPart2",
-        "projectPath": "C:\\Desktop\\Assignments\\CMCSPart2\\CMCSPart2\\CMCSPart2.csproj",
+        "projectPath": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\CMCSPart2.csproj",
         "packagesPath": "C:\\Users\\alexo\\.nuget\\packages\\",
-        "outputPath": "C:\\Desktop\\Assignments\\CMCSPart2\\CMCSPart2\\obj\\",
+        "outputPath": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
