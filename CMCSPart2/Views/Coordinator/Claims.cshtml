@@ -2,44 +2,21 @@
 
 <h2>Claims</h2>
 
-<style>
-    table.table-fixed {
-        table-layout: fixed;
-        width: 100%;
-    }
-
-        table.table-fixed th, table.table-fixed td {
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            vertical-align: middle;
-        }
-
-    td.col-notes {
-        white-space: normal;
-    }
-
-    td.col-docs a {
-        max-width: 100%;
-        display: inline-block;
-    }
-</style>
-
 <table class="table table-striped table-hover table-fixed">
     <thead class="table-dark">
         <tr>
-            <th style="width:80px;">Claim ID</th>
-            <th style="width:140px;">Lecturer Name</th>
-            <th style="width:110px;">Lecturer ID</th>
-            <th style="width:90px;">Hours</th>
-            <th style="width:100px;">Rate</th>
-            <th style="width:110px;">Total</th>
-            <th style="width:120px;">Status</th>
-            <th style="width:150px;">Submitted</th>
-            <th style="width:180px;">Last Decision By</th>
+            <th>Claim ID</th>
+            <th>Lecturer Name</th>
+            <th>Lecturer ID</th>
+            <th>Hours</th>
+            <th>Rate</th>
+            <th>Total</th>
+            <th>Status</th>
+            <th>Submitted</th>
+            <th>Last Decision By</th>
             <th>Notes</th>
-            <th style="width:240px;">Documents</th>
-            <th style="width:240px;">Action</th>
+            <th>Documents</th>
+            <th>Action</th>
         </tr>
     </thead>
     <tbody>
@@ -59,7 +36,7 @@
                     @if (latest != null)
                     {
                         <span title="@latest.DecisionDate.ToLocalTime()">
-                            @latest.Decision by @latest.ApprovedBy (@latest.DecisionDate.ToLocalTime().ToString("yyyy-MM-dd HH:mm"))
+                            @latest.Decision by @latest.ApprovedBy)
                         </span>
                     }
                     else
