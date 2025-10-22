@@ -96,3 +96,4 @@ C:\Desktop\st10437348_prog6212_Part2\CMCSPart2\obj\Debug\net9.0\refint\CMCSPart2
 C:\Desktop\st10437348_prog6212_Part2\CMCSPart2\obj\Debug\net9.0\CMCSPart2.pdb
 C:\Desktop\st10437348_prog6212_Part2\CMCSPart2\obj\Debug\net9.0\CMCSPart2.genruntimeconfig.cache
 C:\Desktop\st10437348_prog6212_Part2\CMCSPart2\obj\Debug\net9.0\ref\CMCSPart2.dll
+C:\Desktop\st10437348_prog6212_Part2\CMCSPart2\bin\Debug\net9.0\App_Data\CMCSPart2-state.json
