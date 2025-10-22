@@ -1,4 +1,4 @@
-﻿namespace CMCS.Services
+﻿namespace CMCSPart2.Services
 {
     public class PersistenceOptions
     {

@@ -1,8 +1,8 @@
-using CMCS.Models;
-using CMCS.Services;
+using CMCSPart2.Models;
+using CMCSPart2.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CMCS.Controllers
+namespace CMCSPart2.Controllers
 {
     public class HomeController : Controller
     {

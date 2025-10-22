@@ -4,11 +4,11 @@ using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Text.RegularExpressions;
-using CMCS.Models;
+using CMCSPart2.Models;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Options;
 
-namespace CMCS.Services
+namespace CMCSPart2.Services
 {
     public class InMemoryStore
     {

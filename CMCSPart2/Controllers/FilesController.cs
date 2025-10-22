@@ -1,7 +1,7 @@
-﻿using CMCS.Services;
+﻿using CMCSPart2.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CMCS.Controllers
+namespace CMCSPart2.Controllers
 {
     public class FilesController : Controller
     {

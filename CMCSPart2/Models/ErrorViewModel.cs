@@ -1,4 +1,4 @@
-namespace CMCS.Models
+namespace CMCSPart2.Models
 {
     public class ErrorViewModel
     {

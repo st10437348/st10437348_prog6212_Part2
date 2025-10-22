@@ -1,9 +1,9 @@
-﻿using CMCS.Models;
-using CMCS.Services;
+﻿using CMCSPart2.Models;
+using CMCSPart2.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace CMCS.Controllers
+namespace CMCSPart2.Controllers
 {
     public class LecturersController : Controller
     {
