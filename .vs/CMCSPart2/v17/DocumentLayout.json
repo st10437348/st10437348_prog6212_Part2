@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Desktop\\st10437348_prog6212_Part2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\services\\inmemorystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\services\\inmemorystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\appsettings.json",
+              "RelativeDocumentMoniker": "CMCSPart2\\appsettings.json",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\appsettings.json",
+              "RelativeToolTip": "CMCSPart2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T07:02:23.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SecurityOptions.cs",
               "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Services\\SecurityOptions.cs",
               "RelativeDocumentMoniker": "CMCSPart2\\Services\\SecurityOptions.cs",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "CMCSPart2\\Services\\SecurityOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:58:36.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T06:58:36.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PersistenceOptions.cs",
               "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Services\\PersistenceOptions.cs",
               "RelativeDocumentMoniker": "CMCSPart2\\Services\\PersistenceOptions.cs",
@@ -51,25 +67,24 @@
               "RelativeToolTip": "CMCSPart2\\Services\\PersistenceOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:58:19.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T06:58:19.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InMemoryStore.cs",
               "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Services\\InMemoryStore.cs",
               "RelativeDocumentMoniker": "CMCSPart2\\Services\\InMemoryStore.cs",
               "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Services\\InMemoryStore.cs",
               "RelativeToolTip": "CMCSPart2\\Services\\InMemoryStore.cs",
-              "ViewState": "AgIAAIIBAAAAAAAAAAA1wK8BAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAIMBAAAAAAAAAAAQwK8BAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T06:53:53.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SupportingDocument.cs",
               "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Models\\SupportingDocument.cs",
               "RelativeDocumentMoniker": "CMCSPart2\\Models\\SupportingDocument.cs",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "CMCSPart2\\Models\\SupportingDocument.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:49:12.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T06:49:12.672Z"
             }
           ]
         }
