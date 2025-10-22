@@ -8,6 +8,8 @@ This project is a web-based system built using ASP.NET Core MVC. It allows lectu
 
 ### YouTube Link
 
+https://youtu.be/EqbcOS4ZlBE
+
 
 
 ### Setup Instructions
@@ -15,18 +17,11 @@ This project is a web-based system built using ASP.NET Core MVC. It allows lectu
 
 
 1. Clone the repository.
-   
 2. Open the solution in Visual Studio 2022.
-   
 3. Ensure that the .NET 9.0 SDK is installed.
-   
 4. Check that appsettings.json contains a valid 32-byte AES key under "Security:EncryptionKeyBase64".
-   
 5. Build the project to restore all dependencies.
-   
 6. Run the application.
-   
-7. Open the web browser and go to https://localhost:xxxx.
 
 
 
@@ -48,7 +43,7 @@ Manager – password: manager
 
 • Lecturers/Create – Submit a new claim by entering hours, rate and notes (total calculated automatically).
 
-• Lecturers/Details – View all submitted claims, approval status, and uploaded documents.
+• Lecturers/Details – View all submitted claims, approval status and uploaded documents.
 
 • Lecturers/UploadDocument – Upload PDF, DOCX or XLSX files related to a claim.
 
@@ -80,7 +75,7 @@ Manager – password: manager
 
 
 
-Data and Security
+### Data and Security
 
 • Data is stored in memory using InMemoryStore and saved to a JSON file (App\_Data/CMCSPart2-state.json).
 
@@ -177,10 +172,4 @@ Digital TechJoint (n.d.) Implementing AES 256 Encryption in ASP.NET – Step-by-
 Microsoft Docs. (n.d.) Unit testing C# in .NET using dotnet test and xUnit. Available at: https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-csharp-with-xunit (Accessed: 22 October 2025)
 
 Troelsen, A. and Japikse, P., 2022. Pro C# 10 with .NET 6: Foundational Principles and Practices in Programming. 11th ed. Berkeley, CA: Apress
-
-
-
-
-
-
 

@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Desktop\\st10437348_prog6212_Part2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\views\\coordinator\\claims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\views\\coordinator\\claims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|c:\\desktop\\st10437348_prog6212_part2\\cmcspart2\\views\\manager\\claims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF9E01EF-3849-44FF-B359-37CA0A9DE900}|CMCSPart2\\CMCSPart2.csproj|solutionrelative:cmcspart2\\views\\manager\\claims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Claims.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Views\\Coordinator\\Claims.cshtml",
-              "RelativeDocumentMoniker": "CMCSPart2\\Views\\Coordinator\\Claims.cshtml",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Views\\Coordinator\\Claims.cshtml",
-              "RelativeToolTip": "CMCSPart2\\Views\\Coordinator\\Claims.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T12:25:02.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Claims.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Views\\Manager\\Claims.cshtml",
-              "RelativeDocumentMoniker": "CMCSPart2\\Views\\Manager\\Claims.cshtml",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\Views\\Manager\\Claims.cshtml",
-              "RelativeToolTip": "CMCSPart2\\Views\\Manager\\Claims.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T12:24:46.217Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
