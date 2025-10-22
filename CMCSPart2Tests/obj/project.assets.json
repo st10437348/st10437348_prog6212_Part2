@@ -411,6 +411,19 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "CMCSPart2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/CMCSPart2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CMCSPart2.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -932,10 +945,16 @@
         "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "CMCSPart2/1.0.0": {
+      "type": "project",
+      "path": "../CMCSPart2/CMCSPart2.csproj",
+      "msbuildProject": "../CMCSPart2/CMCSPart2.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "CMCSPart2 >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
@@ -974,7 +993,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\CMCSPart2.csproj": {
+              "projectPath": "C:\\Desktop\\st10437348_prog6212_Part2\\CMCSPart2\\CMCSPart2.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1022,6 +1045,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
